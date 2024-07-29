@@ -1,2 +1,2 @@
 # conda_requirements
- Import packages outlined in given requirement file for a conda environment
+ Import packages outlined in given pip requirement file for a conda environment
